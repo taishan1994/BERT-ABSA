@@ -184,3 +184,11 @@ weighted avg       0.77      0.83      0.79       664
 ====================================================================================================
 ```
 
+# 延申
+
+由于这几个项目的代码结构都差不多，而且都和信息抽取相关，就一起放在这。
+
+- [BERT-BILSTM-CRF](https://github.com/taishan1994/BERT-BILSTM-CRF)：中文实体识别
+- [BERT-Relation-Extraction](https://github.com/taishan1994/BERT-Relation-Extraction)：中文关系抽取
+- [BERT-ABSA](https://github.com/taishan1994/BERT-ABSA)：中文方面级情感分析
+- [BERT-Event-Extraction](https://github.com/taishan1994/BERT-Event-Extraction) 中文事件抽取
